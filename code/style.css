@@ -28,7 +28,7 @@
 }
 
 .logo {
-    background-image: url("LOGO.png");
+    background-image: url("../assets/LOGO.png");
     width: 311px;
     height: 49px;
     margin-left: 30px;
@@ -49,7 +49,7 @@ b {
 }
 
 .box1 {
-    background-image: url("home.png");
+    background-image: url("../assets/home.png");
     overflow: hidden;
     height: 32px;
     display: flex;
@@ -67,7 +67,7 @@ b {
     object-fit: cover;
 } */
 .box2 {
-    background-image: url("Notifi.png");
+    background-image: url("../assets/Notifi.png");
     height: 32px;
     width: 30px;
     display: flex;
@@ -78,7 +78,7 @@ b {
 }    
 
 .box3 {
-    background-image: url("Settings.png");
+    background-image: url("../assets/Settings.png");
     height: 32px;
     display: flex;
     justify-content: center;
@@ -88,7 +88,7 @@ b {
     border-radius: 50%;
 }    
 .box4 {
-    background-image: url("avatar.png");
+    background-image: url("../assets/avatar.png");
     height: 32px;
     display: flex;
     justify-content: center;
@@ -188,7 +188,7 @@ p {
 }
 
 .img {
-    background-image: url("i.png");
+    background-image: url("../assets/i.png");
     height: 22px;
     width: 22px;
 }
@@ -404,13 +404,13 @@ h4 {
     height: 18px;
     width: 20px;
     margin-left: 200px;
-    background-image: url("Vector-1.png");   
+    background-image: url("../assets/Vector-1.png");   
 }
 .icon-box2 {
     height: 20px;
     width: 22px;
     margin-left: 10px;
-    background-image: url("Vector-2.png");   
+    background-image: url("../assets/Vector-2.png");   
 }
 .icon-box3 {
     height: 20px;
@@ -422,7 +422,7 @@ h4 {
     height: 20px;
     margin-left: 10px;
     width: 15px;
-    background-image: url("Vector-4.png");   
+    background-image: url("../assets/Vector-4.png");   
 }
 .block2 {
     height: 100px;
